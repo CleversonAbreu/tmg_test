@@ -15,8 +15,8 @@ Features
 
 ## How to Run
 Clone the repository:
-git clone https://github.com/CleversonAbreu/tmg_test.git
-cd tmg_test
+* git clone https://github.com/CleversonAbreu/tmg_test.git
+* cd tmg_test
 
 ## Install dependencies:
 flutter pub get
